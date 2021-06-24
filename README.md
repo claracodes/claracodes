@@ -8,10 +8,9 @@ In January 2020 I moved across the pond and have been working as a freelancer. I
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<h3>In my free time I love taking my camera out<img src="https://image.flaticon.com/icons/svg/197/197564.svg" width="13"/> Stockholm!</h3>
+<h3>In my free time I love taking my camera out</h3>
   <p>Below are the last 5 pictures from my instagram account
   <a href="https://www.instagram.com/clara_morgen/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/>
     @clara_morgen!
   </a>
 
@@ -27,6 +26,6 @@ In January 2020 I moved across the pond and have been working as a freelancer. I
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Thursday, 24 June, 21:23 CEST<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Thursday, 24 June, 23:47 CEST<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
 <p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/></p>
 
