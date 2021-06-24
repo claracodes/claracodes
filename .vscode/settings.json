@@ -1,11 +1,22 @@
 {
   "workbench.colorCustomizations": {
-    "titleBar.activeForeground": "#61dafb",
-    "titleBar.inactiveForeground": "#53b7d3",
+    "titleBar.activeForeground": "#e7e7e7",
+    "titleBar.inactiveForeground": "#e7e7e799",
     "titleBar.activeBackground": "#20232a",
-    "titleBar.inactiveBackground": "#0a0e16"
+    "titleBar.inactiveBackground": "#20232a99",
+    "activityBar.activeBackground": "#363b47",
+    "activityBar.activeBorder": "#bf4065",
+    "activityBar.background": "#363b47",
+    "activityBar.foreground": "#e7e7e7",
+    "activityBar.inactiveForeground": "#e7e7e799",
+    "activityBarBadge.background": "#bf4065",
+    "activityBarBadge.foreground": "#e7e7e7",
+    "statusBar.background": "#20232a",
+    "statusBar.foreground": "#e7e7e7",
+    "statusBarItem.hoverBackground": "#363b47"
   },
   "editor.formatOnSave": true,
   "files.insertFinalNewline": true,
-  "editor.tabSize": 2
+  "editor.tabSize": 2,
+  "peacock.color": "#20232a"
 }
