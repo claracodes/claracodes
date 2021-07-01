@@ -5,17 +5,19 @@
 for Le Wagon in Berlin and Tel Aviv for two years.
 In January 2020 I moved across the pond and have been working as a freelancer. I mainly work on a IoT device platform that aims to save energy!
 </p>
+
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 <h3>In my free time I love taking my camera out</h3>
   <p>Below are the last 3 pictures from my instagram account
   <a href="https://www.instagram.com/clara_morgen/" target="_blank" style="background: #7D36AF;
-background: -webkit-linear-gradient(to right, #7D36AF 0%, #F81500 50%, #F6D400 100%);
-background: -moz-linear-gradient(to right, #7D36AF 0%, #F81500 50%, #F6D400 100%);
-background: linear-gradient(to right, #7D36AF 0%, #F81500 50%, #F6D400 100%);
--webkit-background-clip: text;
--webkit-text-fill-color: transparent;
+                                                                            background: -webkit-linear-gradient(to right, #7D36AF 0%, #F81500 50%, #F6D400 100%);
+                                                                            background: -moz-linear-gradient(to right, #7D36AF 0%, #F81500 50%, #F6D400 100%);
+                                                                            background: linear-gradient(to right, #7D36AF 0%, #F81500 50%, #F6D400 100%);
+                                                                            -webkit-background-clip: text;
+                                                                            -webkit-text-fill-color: transparent;
 ">
     @clara_morgen
   </a>
@@ -27,6 +29,6 @@ background: linear-gradient(to right, #7D36AF 0%, #F81500 50%, #F6D400 100%);
   </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 24 hours</b>!</br>Last refresh: Thursday, 1 July, 04:07 CEST<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">This <i>README</i> file is generated <b>every 24 hours</b>!</br>Last refresh: Thursday, 1 July, 17:53 CEST<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
 <p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/></p>
 
