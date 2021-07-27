@@ -24,6 +24,8 @@ jobs:
           SHOW_SHORT_INFO: 'False'
           SHOW_LOC_CHART: 'False'
           SHOW_PROFILE_VIEWS: 'False'
+          SHOW_LANGUAGE: 'False'
+          SHOW_LANGUAGE_PER_REPO: 'False'
 
   build:
     runs-on: ubuntu-latest
