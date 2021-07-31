@@ -25,7 +25,7 @@ jobs:
           SHOW_LOC_CHART: 'False'
           SHOW_PROFILE_VIEWS: 'False'
           SHOW_LANGUAGE: 'False'
-          SHOW_EDITORS: 'false'
+          SHOW_EDITORS: 'False'
 
   build:
     runs-on: ubuntu-latest
@@ -46,7 +46,7 @@ jobs:
         run: npm install
       - name: Generate README file
         run: node index.js
-      # - name: Push new README.md
-      #   uses: mikeal/publish-to-github-action@master
-      #   env:
-      #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Push new README.md
+        uses: mikeal/publish-to-github-action@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
