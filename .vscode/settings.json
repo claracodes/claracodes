@@ -13,7 +13,10 @@
     "activityBarBadge.foreground": "#e7e7e7",
     "statusBar.background": "#20232a",
     "statusBar.foreground": "#e7e7e7",
-    "statusBarItem.hoverBackground": "#363b47"
+    "statusBarItem.hoverBackground": "#363b47",
+    "sash.hoverBorder": "#363b47",
+    "statusBarItem.remoteBackground": "#20232a",
+    "statusBarItem.remoteForeground": "#e7e7e7"
   },
   "editor.formatOnSave": true,
   "files.insertFinalNewline": true,
